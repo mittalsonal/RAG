@@ -1,0 +1,5 @@
+Retrieval-Augmented Generation (RAG) is a method that helps an AI model give better answers. Before generating a response, the model looks for information from reliable sources outside its training data, such as databases or documents.
+
+Large Language Models (LLMs) are trained on huge amounts of data and use many parameters to create responses for tasks like answering questions, translating languages, or finishing sentences.
+
+RAG improves these models by allowing them to use extra, up-to-date knowledge from specific areas or an organization’s internal information without retraining the model. This makes the AI’s answers more accurate, relevant, and useful, while also being cost-effective.
