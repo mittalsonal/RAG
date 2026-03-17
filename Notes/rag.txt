@@ -3,3 +3,22 @@ Retrieval-Augmented Generation (RAG) is a method that helps an AI model give bet
 Large Language Models (LLMs) are trained on huge amounts of data and use many parameters to create responses for tasks like answering questions, translating languages, or finishing sentences.
 
 RAG improves these models by allowing them to use extra, up-to-date knowledge from specific areas or an organization’s internal information without retraining the model. This makes the AI’s answers more accurate, relevant, and useful, while also being cost-effective.
+
+
+Disadvantage of using LLM:
+-> Hallucinating : suppose LLM does not have knowledge about certain event so it generated its own answer based on its understanding 
+-> Suppose i have a company and i have to make a chat bot and for that chatbot i have certain amount of data and for that we are using LLM so we again and again have to fine tune the model so in that case use of RAG is easy
+
+
+Data parsing is very important step. it is all about how you read the unstructured data or the structured data . basically how you chun the dataset.
+
+after parsing this is now pass it to the embedding models . and in embedding text to vector is done.
+vectors is just the numerical representation of text. so that algorithms like similarity serach can be done on the database to get the information.
+
+--->>> PERPLIXITY : it is based on RAG only 
+it is connected to various retrievals, tools and web search and it summarizing the output and the answer is given by the LLM. it using various LLMs itself.
+
+
+-->>> RAG basically have two pipelines : 
+data ingetion pipeline 
+retrival pipleine

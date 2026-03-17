@@ -1,0 +1,92 @@
+RAG basically have two pipelines:
+1. Data Ingestion Pipeline (Left side)
+👉 Yaha pe tum apna data prepare karte ho
+
+2. Retrieval + Generation Pipeline (Right side)
+👉 Yaha pe user question ka answer generate hota hai
+
+
+🟡 PART 1: Data Ingestion Pipeline (Data ko ready karna)
+1. Data Ingest
+👉 Tum data laate ho different sources se:
+PDF
+HTML
+Excel
+Database
+👉 Matlab: Raw data collect karna
+
+2. Data Parsing
+👉 Ab raw data ko clean aur readable banate ho
+Example:
+PDF → text me convert
+HTML → useful content nikalna
+👉 Phir usko documents me convert karte ho
+
+3. Chunking
+👉 Bade document ko chhote-chhote pieces me tod dete ho
+Example:
+1000 lines ka doc → 100-100 lines ke chunks
+👉 Kyun?
+AI ek baar me chhota data better samajhta hai
+
+4. Embedding (Important 🔥)
+👉 Har text chunk ko numbers (vectors) me convert karte ho
+👉 Simple language:
+Text → vector (math form)
+Example:
+"FastAPI is framework" → [0.23, 0.67, 0.12...]
+👉 Ye vectors store hote hain Vector Database me
+
+🟢 PART 2: Retrieval + Generation Pipeline
+5. User Query
+👉 User question poochta hai
+Example:
+"FastAPI kya hai?"
+
+6. Query → Retriever
+👉 User ka question bhi embedding me convert hota hai
+👉 Phir retriever:
+vector DB me search karta hai
+similar chunks find karta hai
+👉 Matlab:
+"Jo data question se match karta hai woh nikaalo"
+
+7. Context banana
+👉 Jo relevant chunks mile:
+unko ek saath combine kar dete hain
+👉 Isko bolte hain Context
+
+8. LLM (Generation step)
+👉 Ab:
+User query + context
+→ LLM ko diya jata hai
+
+👉 LLM:
+samajhta hai
+phir final answer generate karta hai
+
+9. Output (O/P)
+👉 User ko final answer milta hai
+✔️ Accurate
+✔️ Relevant
+✔️ Data-based
+
+🔥 Ek simple real-life example
+Socho tumhari notebook hai:
+Without RAG:
+👉 Tum yaad se answer dete ho (galti ho sakti hai)
+With RAG:
+Notebook kholo
+Relevant page dhoondo
+Usko padh ke answer do
+👉 Yehi pura pipeline hai!
+
+💡 Short Summary
+👉 Left side = Data ko AI ke liye ready karna
+👉 Right side = Question ka smart answer dena
+
+------>>>>>> 🚀 Tumhare project se connect
+Tum jo AI Second Brain / FastAPI project bana rahi ho:
+👉 Ye same pipeline use hoga
+Notes → embeddings → vector DB
+Query → retrieve → LLM → answer
