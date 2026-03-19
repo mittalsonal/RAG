@@ -90,3 +90,7 @@ Tum jo AI Second Brain / FastAPI project bana rahi ho:
 👉 Ye same pipeline use hoga
 Notes → embeddings → vector DB
 Query → retrieve → LLM → answer
+
+
+
+Data Ingestion -> n number of chunks -> Embedding -> Vector DB 
