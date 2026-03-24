@@ -1,0 +1,175 @@
+[{
+  "_id": {
+    "$oid": "6916df09526c3de58521e347"
+  },
+  "title": "M3M",
+  "slug": "m3m",
+  "description": "M3M is one of India’s leading luxury real estate developers, known for delivering landmark residential and commercial properties that blend innovation, sophistication, and world-class design. With a strong presence in Gurgaon and other emerging urban hubs, M3M has redefined modern living through its commitment to excellence, architectural brilliance, and unmatched lifestyle amenities.",
+  "image": "/images/1763106569045-m3m_(1).png",
+  "certifications": [
+    "LEED Gold"
+  ],
+  "partnerships": [
+    "Jacob & Co,OYO"
+  ],
+  "createdAt": {
+    "$date": "2025-11-14T07:49:29.058Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T08:16:41.471Z"
+  },
+  "__v": 0,
+  "ongoingProjects": "21",
+  "projectsCompleted": "36",
+  "reraRegistration": "347"
+},
+{
+  "_id": {
+    "$oid": "6916df4d526c3de58521e360"
+  },
+  "title": "Omaxe",
+  "slug": "omaxe",
+  "description": "Omaxe is one of India’s most trusted and established real estate developers, known for its commitment to quality, reliability, and customer-centric development. With over three decades of experience, Omaxe has delivered a diverse portfolio of residential, commercial, and integrated township projects across multiple cities, making it a household name in India’s real estate landscape.",
+  "image": "/images/1763106637140-omaxe.png",
+  "certifications": [
+    ""
+  ],
+  "partnerships": [
+    "BeTogether,UPSRTC"
+  ],
+  "createdAt": {
+    "$date": "2025-11-14T07:50:37.145Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T08:15:35.367Z"
+  },
+  "__v": 0,
+  "experience": "38+",
+  "ongoingProjects": "43",
+  "projectsCompleted": "164",
+  "reraRegistration": "PBRERA-SAS80-PC0195"
+},
+{
+  "_id": {
+    "$oid": "6916df7c526c3de58521e379"
+  },
+  "title": "DLF",
+  "slug": "dlf",
+  "description": "DLF is India’s most prestigious and influential real estate developer, renowned for setting global benchmarks in luxury living, commercial excellence, and urban infrastructure. With a legacy spanning over seven decades, DLF has shaped the skylines of major cities through iconic developments that reflect innovation, elegance, and world-class craftsmanship.",
+  "image": "/images/1763106684083-dlf.png",
+  "certifications": [
+    "LEED Platinum certification,LEED v4.1 O+M"
+  ],
+  "partnerships": [
+    "GIC,MG Group,IL&FS"
+  ],
+  "createdAt": {
+    "$date": "2025-11-14T07:51:24.091Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T08:18:43.174Z"
+  },
+  "__v": 0,
+  "experience": "78+",
+  "ongoingProjects": "55",
+  "projectsCompleted": "160+"
+},
+{
+  "_id": {
+    "$oid": "6916dfd8526c3de58521e3bc"
+  },
+  "title": "Spaze",
+  "slug": "spaze",
+  "description": "Spaze is a rapidly growing and highly respected real estate developer known for delivering modern, design-driven commercial and residential spaces across key locations in Gurugram. With a strong commitment to quality construction, timely delivery, and value-driven development, Spaze has built a solid reputation among investors, businesses, and homebuyers seeking contemporary and efficient real estate solutions.",
+  "image": "/images/1763106776012-spaze.png",
+  "certifications": [
+    ""
+  ],
+  "partnerships": [
+    ""
+  ],
+  "createdAt": {
+    "$date": "2025-11-14T07:52:56.016Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T08:17:26.590Z"
+  },
+  "__v": 0,
+  "experience": "19",
+  "projectsCompleted": "11",
+  "reraRegistration": "RERA-GRG-528-2019"
+},
+{
+  "_id": {
+    "$oid": "6916e00c526c3de58521e3c4"
+  },
+  "title": "Unitech",
+  "slug": "unitech",
+  "description": "Unitech is one of India’s most recognized and longstanding real estate developers, known for shaping urban landscapes through a diverse portfolio of residential, commercial, retail, and hospitality projects. With decades of experience in the industry, Unitech has played a significant role in transforming modern Indian cities with thoughtfully planned townships, high-rise residences, IT parks, and lifestyle-centric developments.",
+  "image": "/images/1763106828156-unitech.png",
+  "certifications": [
+    "LEED Core & Shell,ISO 9001:2000"
+  ],
+  "partnerships": [
+    "SOM,Callison,HOK"
+  ],
+  "createdAt": {
+    "$date": "2025-11-14T07:53:48.159Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T08:14:21.159Z"
+  },
+  "__v": 0,
+  "experience": "51+"
+},
+{
+  "_id": {
+    "$oid": "6916e02f526c3de58521e3cc"
+  },
+  "title": "Vatika",
+  "slug": "vatika",
+  "description": "Vatika Group is a leading real estate developer known for creating thoughtfully planned, well-designed, and sustainable communities across North India. With a strong focus on enhancing quality of life, Vatika is committed to developing spaces that blend functionality, aesthetics, and long-term value. Their portfolio spans residential townships, commercial complexes, business centres, retail hubs, and hospitality projects—each reflecting meticulous planning and modern design principles.",
+  "image": "/images/1763106863747-vatika.png",
+  "certifications": [
+    "LEED Platinum certification"
+  ],
+  "partnerships": [
+    "GIC,PE Investors"
+  ],
+  "createdAt": {
+    "$date": "2025-11-14T07:54:23.751Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T08:05:55.369Z"
+  },
+  "__v": 0,
+  "reraRegistration": "RERA-GRG-1479-2023",
+  "experience": "39+",
+  "ongoingProjects": "10–14",
+  "projectsCompleted": "60+"
+},
+{
+  "_id": {
+    "$oid": "692fe179ef9198127dfed010"
+  },
+  "title": "Godrej",
+  "slug": "godrej",
+  "description": "Founded in 1990 and headquartered in Mumbai, Godrej Properties is the real-estate arm of the Godrej Group. Over the decades, it has grown into one of India’s leading developers — with a pan-India presence across major cities and a portfolio spanning residential complexes, townships, mixed-use developments and commercial projects. What sets Godrej Properties apart is its commitment to quality, design-led development and sustainability. GPL combines the long-standing trust and legacy of the Godrej Group with modern construction techniques, green-building practices, and customer-centric planning. As of recent data, it maintains a large development pipeline — making it a preferred name for homebuyers seeking reliability, design integrity, and a broad city-wise footprint.",
+  "image": "/images/1764749340514-ChatGPT_Image_Dec_3,_2025,_01_36_53_PM.png",
+  "experience": "35 +",
+  "projectsCompleted": "14",
+  "ongoingProjects": "92",
+  "certifications": [
+    "ISO certification"
+  ],
+  "partnerships": [
+    ""
+  ],
+  "createdAt": {
+    "$date": "2025-12-03T07:06:33.848Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-03T08:09:00.520Z"
+  },
+  "__v": 0
+}]
