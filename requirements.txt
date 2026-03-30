@@ -4,3 +4,6 @@ langchain-community
 pypdf 
 pymupdf
 jq
+sentence-transformers # this is the library that provides the pre-trained models for generating embeddings present in huggingface
+faiss-cpu # this is the library that provides the efficient similarity search and clustering of dense vectors, which is used for storing and querying the embeddings generated from the documents.
+chromadb # this is the library that provides a simple and efficient way to store and query large collections of documents, which can be used to store the original documents and their associated metadata.
